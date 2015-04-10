@@ -1,0 +1,4 @@
+user=snort
+password=
+dbname=snort
+host=snort.local
